@@ -1,0 +1,17 @@
+E:\C# package\Student_study\Student_study\bin\Debug\Student_study.exe.config
+E:\C# package\Student_study\Student_study\bin\Debug\Student_study.exe
+E:\C# package\Student_study\Student_study\bin\Debug\Student_study.pdb
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.csprojAssemblyReference.cache
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.Form1.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.Properties.Resources.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.csproj.GenerateResource.cache
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.csproj.CoreCompileInputs.cache
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.exe
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.pdb
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.Main.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.FrmAddStudent.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.FrmStudentList.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.FrmAddClass.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.FrmClassList.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.FrmGradeList.resources
+E:\C# package\Student_study\Student_study\obj\Debug\Student_study.Student_Edite_Delete.resources
